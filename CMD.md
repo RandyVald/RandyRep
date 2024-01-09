@@ -15,3 +15,8 @@ Windows:
 ```
 dir
 ```
+
+Удаление файла в Windows:
+```
+dell <filename>
+```
